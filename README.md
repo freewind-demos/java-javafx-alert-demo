@@ -1,5 +1,5 @@
-JavaFX Hello World Demo
-=======================
+JavaFX Alert Information Demo
+=============================
 
-Show a window with `Hello, JavaFX` label.
+Alert a dialog with some message.
 
